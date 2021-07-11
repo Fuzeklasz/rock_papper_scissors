@@ -47,5 +47,8 @@ class Game:
             print("wygral gracz")
             
         
-A = Game()     
+A = Game()
+num = 0
+while num < 3:
+    a.run((A.user_input(),A.computer_input())
 A.run(A.user_input(),A.computer_input())
